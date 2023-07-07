@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52286790.css",
+    "main.js": "/static/js/main.6be46c1a.js",
+    "static/media/blogApp.png": "/static/media/blogApp.d8635208ebd9a00df1dd.png",
+    "static/media/Letschat.jpg": "/static/media/Letschat.712fa479a4cdf275e45e.jpg",
+    "static/media/heroImage.png": "/static/media/heroImage.2e3ad1840ef83d591632.png",
+    "static/media/textutils.png": "/static/media/textutils.2ca16108dcfb37da40a9.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.52286790.css.map": "/static/css/main.52286790.css.map",
+    "main.6be46c1a.js.map": "/static/js/main.6be46c1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52286790.css",
+    "static/js/main.6be46c1a.js"
+  ]
+}
